@@ -1,0 +1,20 @@
+{
+  "name": "Padroes-de-projeto-APS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrefmenezes/Padroes-de-projeto-APS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrefmenezes/Padroes-de-projeto-APS/issues"
+  },
+  "homepage": "https://github.com/andrefmenezes/Padroes-de-projeto-APS#readme"
+}
